@@ -1,6 +1,6 @@
 # TeachBeach: Student Tutoring Management Database
 
-Group project for IS 380 (Database Management) at CSULB. Team of five. First place, Database Management App Contest, 2025.
+Group project for IS 380 (Database Management) at CSULB. Team of five. First place, Database Management App Contest, 2025. Built out the conceptual model, logical model, and the queries. 
 
 ## The problem
 
